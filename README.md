@@ -1,6 +1,6 @@
-# Desafio DIO: Auditoria de Segurança com Ataques de Força Bruta
+# Auditoria de Segurança com Ataques de Força Bruta
 
-Este repositório documenta a execução do Desafio de Projeto da **Digital Innovation One (DIO)** sobre a criação de ataques de força bruta em um ambiente de laboratório controlado. O objetivo foi explorar vulnerabilidades em diferentes serviços (FTP, SMB, Web) usando Kali Linux e ferramentas de auditoria.
+Este repositório documenta a execução sobre a criação de ataques de força bruta em um ambiente de laboratório controlado. O objetivo foi explorar vulnerabilidades em diferentes serviços (FTP, SMB, Web) usando Kali Linux e ferramentas de auditoria.
 
 ## 1. 🛠️ Configuração do Ambiente
 
